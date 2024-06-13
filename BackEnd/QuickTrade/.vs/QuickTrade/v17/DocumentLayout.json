@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PANDETI NAVYA SREE\\source\\repos\\QuickTrade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6788753B-D809-40E4-8D6D-DDA28271CA73}|QuickTrade\\QuickTrade.csproj|c:\\users\\pandeti navya sree\\source\\repos\\quicktrade\\quicktrade\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6788753B-D809-40E4-8D6D-DDA28271CA73}|QuickTrade\\QuickTrade.csproj|solutionrelative:quicktrade\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6788753B-D809-40E4-8D6D-DDA28271CA73}|QuickTrade\\QuickTrade.csproj|c:\\users\\pandeti navya sree\\source\\repos\\quicktrade\\quicktrade\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6788753B-D809-40E4-8D6D-DDA28271CA73}|QuickTrade\\QuickTrade.csproj|solutionrelative:quicktrade\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6788753B-D809-40E4-8D6D-DDA28271CA73}|QuickTrade\\QuickTrade.csproj|c:\\users\\pandeti navya sree\\source\\repos\\quicktrade\\quicktrade\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6788753B-D809-40E4-8D6D-DDA28271CA73}|QuickTrade\\QuickTrade.csproj|solutionrelative:quicktrade\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6788753B-D809-40E4-8D6D-DDA28271CA73}|QuickTrade\\QuickTrade.csproj|c:\\users\\pandeti navya sree\\source\\repos\\quicktrade\\quicktrade\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6788753B-D809-40E4-8D6D-DDA28271CA73}|QuickTrade\\QuickTrade.csproj|solutionrelative:quicktrade\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6788753B-D809-40E4-8D6D-DDA28271CA73}|QuickTrade\\QuickTrade.csproj|c:\\users\\pandeti navya sree\\source\\repos\\quicktrade\\quicktrade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6788753B-D809-40E4-8D6D-DDA28271CA73}|QuickTrade\\QuickTrade.csproj|solutionrelative:quicktrade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6788753B-D809-40E4-8D6D-DDA28271CA73}|QuickTrade\\QuickTrade.csproj|c:\\users\\pandeti navya sree\\source\\repos\\quicktrade\\quicktrade\\migrations\\20240612113404_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6788753B-D809-40E4-8D6D-DDA28271CA73}|QuickTrade\\QuickTrade.csproj|solutionrelative:quicktrade\\migrations\\20240612113404_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6788753B-D809-40E4-8D6D-DDA28271CA73}|QuickTrade\\QuickTrade.csproj|c:\\users\\pandeti navya sree\\source\\repos\\quicktrade\\quicktrade\\controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6788753B-D809-40E4-8D6D-DDA28271CA73}|QuickTrade\\QuickTrade.csproj|solutionrelative:quicktrade\\controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6788753B-D809-40E4-8D6D-DDA28271CA73}|QuickTrade\\QuickTrade.csproj|c:\\users\\pandeti navya sree\\source\\repos\\quicktrade\\quicktrade\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6788753B-D809-40E4-8D6D-DDA28271CA73}|QuickTrade\\QuickTrade.csproj|solutionrelative:quicktrade\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6788753B-D809-40E4-8D6D-DDA28271CA73}|QuickTrade\\QuickTrade.csproj|c:\\users\\pandeti navya sree\\source\\repos\\quicktrade\\quicktrade\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6788753B-D809-40E4-8D6D-DDA28271CA73}|QuickTrade\\QuickTrade.csproj|solutionrelative:quicktrade\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6788753B-D809-40E4-8D6D-DDA28271CA73}|QuickTrade\\QuickTrade.csproj|c:\\users\\pandeti navya sree\\source\\repos\\quicktrade\\quicktrade\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6788753B-D809-40E4-8D6D-DDA28271CA73}|QuickTrade\\QuickTrade.csproj|solutionrelative:quicktrade\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6788753B-D809-40E4-8D6D-DDA28271CA73}|QuickTrade\\QuickTrade.csproj|c:\\users\\pandeti navya sree\\source\\repos\\quicktrade\\quicktrade\\controllers\\sellerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6788753B-D809-40E4-8D6D-DDA28271CA73}|QuickTrade\\QuickTrade.csproj|solutionrelative:quicktrade\\controllers\\sellerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6788753B-D809-40E4-8D6D-DDA28271CA73}|QuickTrade\\QuickTrade.csproj|c:\\users\\pandeti navya sree\\source\\repos\\quicktrade\\quicktrade\\controllers\\rrrscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6788753B-D809-40E4-8D6D-DDA28271CA73}|QuickTrade\\QuickTrade.csproj|solutionrelative:quicktrade\\controllers\\rrrscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6788753B-D809-40E4-8D6D-DDA28271CA73}|QuickTrade\\QuickTrade.csproj|c:\\users\\pandeti navya sree\\source\\repos\\quicktrade\\quicktrade\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6788753B-D809-40E4-8D6D-DDA28271CA73}|QuickTrade\\QuickTrade.csproj|solutionrelative:quicktrade\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6788753B-D809-40E4-8D6D-DDA28271CA73}|QuickTrade\\QuickTrade.csproj|c:\\users\\pandeti navya sree\\source\\repos\\quicktrade\\quicktrade\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6788753B-D809-40E4-8D6D-DDA28271CA73}|QuickTrade\\QuickTrade.csproj|solutionrelative:quicktrade\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6788753B-D809-40E4-8D6D-DDA28271CA73}|QuickTrade\\QuickTrade.csproj|c:\\users\\pandeti navya sree\\source\\repos\\quicktrade\\quicktrade\\models\\rrr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6788753B-D809-40E4-8D6D-DDA28271CA73}|QuickTrade\\QuickTrade.csproj|solutionrelative:quicktrade\\models\\rrr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6788753B-D809-40E4-8D6D-DDA28271CA73}|QuickTrade\\QuickTrade.csproj|c:\\users\\pandeti navya sree\\source\\repos\\quicktrade\\quicktrade\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6788753B-D809-40E4-8D6D-DDA28271CA73}|QuickTrade\\QuickTrade.csproj|solutionrelative:quicktrade\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\PANDETI NAVYA SREE\\source\\repos\\QuickTrade\\QuickTrade\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "QuickTrade\\Controllers\\ItemsController.cs",
+              "ToolTip": "C:\\Users\\PANDETI NAVYA SREE\\source\\repos\\QuickTrade\\QuickTrade\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "QuickTrade\\Controllers\\ItemsController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAAwFcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T04:16:41.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SellersController.cs",
+              "DocumentMoniker": "C:\\Users\\PANDETI NAVYA SREE\\source\\repos\\QuickTrade\\QuickTrade\\Controllers\\SellersController.cs",
+              "RelativeDocumentMoniker": "QuickTrade\\Controllers\\SellersController.cs",
+              "ToolTip": "C:\\Users\\PANDETI NAVYA SREE\\source\\repos\\QuickTrade\\QuickTrade\\Controllers\\SellersController.cs",
+              "RelativeToolTip": "QuickTrade\\Controllers\\SellersController.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAwwHEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T04:16:18.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\PANDETI NAVYA SREE\\source\\repos\\QuickTrade\\QuickTrade\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "QuickTrade\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\PANDETI NAVYA SREE\\source\\repos\\QuickTrade\\QuickTrade\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "QuickTrade\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T04:17:16.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Seller.cs",
+              "DocumentMoniker": "C:\\Users\\PANDETI NAVYA SREE\\source\\repos\\QuickTrade\\QuickTrade\\Models\\Seller.cs",
+              "RelativeDocumentMoniker": "QuickTrade\\Models\\Seller.cs",
+              "ToolTip": "C:\\Users\\PANDETI NAVYA SREE\\source\\repos\\QuickTrade\\QuickTrade\\Models\\Seller.cs",
+              "RelativeToolTip": "QuickTrade\\Models\\Seller.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T03:18:14.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RRRsController.cs",
+              "DocumentMoniker": "C:\\Users\\PANDETI NAVYA SREE\\source\\repos\\QuickTrade\\QuickTrade\\Controllers\\RRRsController.cs",
+              "RelativeDocumentMoniker": "QuickTrade\\Controllers\\RRRsController.cs",
+              "ToolTip": "C:\\Users\\PANDETI NAVYA SREE\\source\\repos\\QuickTrade\\QuickTrade\\Controllers\\RRRsController.cs",
+              "RelativeToolTip": "QuickTrade\\Controllers\\RRRsController.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T04:17:43.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\PANDETI NAVYA SREE\\source\\repos\\QuickTrade\\QuickTrade\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "QuickTrade\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\PANDETI NAVYA SREE\\source\\repos\\QuickTrade\\QuickTrade\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "QuickTrade\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAAAJQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T04:15:54.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240612113404_initial.cs",
+              "DocumentMoniker": "C:\\Users\\PANDETI NAVYA SREE\\source\\repos\\QuickTrade\\QuickTrade\\Migrations\\20240612113404_initial.cs",
+              "RelativeDocumentMoniker": "QuickTrade\\Migrations\\20240612113404_initial.cs",
+              "ToolTip": "C:\\Users\\PANDETI NAVYA SREE\\source\\repos\\QuickTrade\\QuickTrade\\Migrations\\20240612113404_initial.cs",
+              "RelativeToolTip": "QuickTrade\\Migrations\\20240612113404_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:34:04.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\PANDETI NAVYA SREE\\source\\repos\\QuickTrade\\QuickTrade\\Models\\User.cs",
+              "RelativeDocumentMoniker": "QuickTrade\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\PANDETI NAVYA SREE\\source\\repos\\QuickTrade\\QuickTrade\\Models\\User.cs",
+              "RelativeToolTip": "QuickTrade\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T03:18:28.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PANDETI NAVYA SREE\\source\\repos\\QuickTrade\\QuickTrade\\Program.cs",
+              "RelativeDocumentMoniker": "QuickTrade\\Program.cs",
+              "ToolTip": "C:\\Users\\PANDETI NAVYA SREE\\source\\repos\\QuickTrade\\QuickTrade\\Program.cs",
+              "RelativeToolTip": "QuickTrade\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAApwBcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T03:49:44.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\PANDETI NAVYA SREE\\source\\repos\\QuickTrade\\QuickTrade\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "QuickTrade\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\PANDETI NAVYA SREE\\source\\repos\\QuickTrade\\QuickTrade\\Models\\Item.cs",
+              "RelativeToolTip": "QuickTrade\\Models\\Item.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAUwA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T03:17:32.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\PANDETI NAVYA SREE\\source\\repos\\QuickTrade\\QuickTrade\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "QuickTrade\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\PANDETI NAVYA SREE\\source\\repos\\QuickTrade\\QuickTrade\\Models\\Admin.cs",
+              "RelativeToolTip": "QuickTrade\\Models\\Admin.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:32:11.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminsController.cs",
+              "DocumentMoniker": "C:\\Users\\PANDETI NAVYA SREE\\source\\repos\\QuickTrade\\QuickTrade\\Controllers\\AdminsController.cs",
+              "RelativeDocumentMoniker": "QuickTrade\\Controllers\\AdminsController.cs",
+              "ToolTip": "C:\\Users\\PANDETI NAVYA SREE\\source\\repos\\QuickTrade\\QuickTrade\\Controllers\\AdminsController.cs",
+              "RelativeToolTip": "QuickTrade\\Controllers\\AdminsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:33:47.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PANDETI NAVYA SREE\\source\\repos\\QuickTrade\\QuickTrade\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "QuickTrade\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\PANDETI NAVYA SREE\\source\\repos\\QuickTrade\\QuickTrade\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "QuickTrade\\Models\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T03:37:10.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\PANDETI NAVYA SREE\\source\\repos\\QuickTrade\\QuickTrade\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "QuickTrade\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\PANDETI NAVYA SREE\\source\\repos\\QuickTrade\\QuickTrade\\Models\\Order.cs",
+              "RelativeToolTip": "QuickTrade\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T03:17:59.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RRR.cs",
+              "DocumentMoniker": "C:\\Users\\PANDETI NAVYA SREE\\source\\repos\\QuickTrade\\QuickTrade\\Models\\RRR.cs",
+              "RelativeDocumentMoniker": "QuickTrade\\Models\\RRR.cs",
+              "ToolTip": "C:\\Users\\PANDETI NAVYA SREE\\source\\repos\\QuickTrade\\QuickTrade\\Models\\RRR.cs",
+              "RelativeToolTip": "QuickTrade\\Models\\RRR.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T03:18:44.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PANDETI NAVYA SREE\\source\\repos\\QuickTrade\\QuickTrade\\appsettings.json",
+              "RelativeDocumentMoniker": "QuickTrade\\appsettings.json",
+              "ToolTip": "C:\\Users\\PANDETI NAVYA SREE\\source\\repos\\QuickTrade\\QuickTrade\\appsettings.json",
+              "RelativeToolTip": "QuickTrade\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-12T03:28:22.829Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

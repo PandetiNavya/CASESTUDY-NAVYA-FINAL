@@ -1,0 +1,13 @@
+
+  <div *ngIf="order" class="order-confirmation">
+    <h2 class="confirmation-heading">Order Confirmation</h2>
+    <div class="confirmation-details">
+      <p><strong>Order ID:</strong> {{ order.orderId }}</p>
+      <p><strong>Item ID:</strong> {{ order.itemId }}</p>
+      <p><strong>Date:</strong> {{ order.date }}</p>
+      <p><strong>Shipping Address:</strong> {{ order.shippingAddress }}</p>
+      <p><strong>Payment Method:</strong> {{ order.paymentMethod }}</p>
+      <p><strong>Status:</strong> {{ order.status }}</p>
+    </div>
+  </div>
+  

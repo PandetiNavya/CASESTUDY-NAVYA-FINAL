@@ -1,0 +1,71 @@
+.container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    background-color: #ebd0ce;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  .mb-4 {
+    margin-bottom: 1.5rem;
+  }
+  
+  .edit-user-form {
+    background-color: #545871;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .label {
+    font-weight: bold;
+  }
+  
+  .form-control {
+    width: 90%;
+    padding: 10px;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    
+  }
+  
+  .button-group {
+    margin-top: 20px;
+  }
+  
+  .btn {
+    padding: 10px 20px;
+    margin-right: 10px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .btn-primary {
+    background-color: #ebd0ce;
+    color: black;
+  }
+  
+  .btn-primary:hover {
+    background-color:green;
+  }
+  
+  .btn-secondary {
+    background-color: #ebd0ce;
+    color: black ;
+  }
+  
+  .btn-secondary:hover {
+    background-color:green;
+  }
+  
+  /* Add additional styles as needed */
+  

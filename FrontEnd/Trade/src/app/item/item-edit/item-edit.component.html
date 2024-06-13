@@ -1,0 +1,45 @@
+
+<div class="one">
+  <div class="container">
+      <h2>Update Item</h2>
+      <form #myForm="ngForm" (ngSubmit)="updateItem()">
+          <div class="form-group">
+              <label for="SellerId" class="form-label">Seller ID</label>
+              <input type="text" class="form-control" id="SellerId" name="SellerId" [(ngModel)]="item.seller.sellerId" readonly>
+          </div>
+          <div class="form-group">
+              <label for="ItemName" class="form-label">Item Name</label>
+              <input type="text" class="form-control" id="ItemName" name="ItemName" [(ngModel)]="item.itemName" required>
+          </div>
+          <div class="form-group">
+              <label for="Description" class="form-label">Description</label>
+              <textarea class="form-control" id="Description" name="Description" [(ngModel)]="item.description" required></textarea>
+          </div>
+          <div class="form-group">
+              <label for="Price" class="form-label">Price</label>
+              <input type="number" class="form-control" id="Price" name="Price" [(ngModel)]="item.price" required>
+          </div>
+          <div class="form-group">
+              <label for="Category" class="form-label">Category</label>
+              <input type="text" class="form-control" id="Category" name="Category" [(ngModel)]="item.category" required>
+          </div>
+          <div class="form-group">
+              <label for="Condition" class="form-label">Condition</label>
+              <input type="text" class="form-control" id="Condition" name="Condition" [(ngModel)]="item.condition" required>
+          </div>
+          <div class="form-group">
+              <label for="Images" class="form-label">Images URL</label>
+              <input type="text" class="form-control" id="Images" name="Images" [(ngModel)]="item.images" required>
+          </div>
+          <div class="form-group">
+              <label for="Location" class="form-label">Location</label>
+              <input type="text" class="form-control" id="Location" name="Location" [(ngModel)]="item.location" required>
+          </div>
+          <div class="button-group">
+              <button type="submit" class="btn btn-success" [disabled]="!myForm.valid">Update Item</button>
+              <button type="button" class="btn btn-secondary" (click)="goBack()">Back</button>
+          </div>
+      </form>
+  </div>
+</div>
+

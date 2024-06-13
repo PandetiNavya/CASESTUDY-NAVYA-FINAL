@@ -1,0 +1,6 @@
+@QuickTrade_HostAddress = http://localhost:5250
+
+GET {{QuickTrade_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,35 @@
+
+   <div class="add-item-container">
+    <h2>ADD ITEM</h2>
+    <form #myForm="ngForm" (ngSubmit)="addItem(myForm)">
+        <div class="form-group">
+            <label for="ItemName">Item Name:</label>
+            <input type="text" id="ItemName" name="ItemName" ngModel required>
+        </div>
+        <div class="form-group">
+            <label for="Description">Description:</label>
+            <textarea id="Description" name="Description" ngModel required></textarea>
+        </div>
+        <div class="form-group">
+            <label for="Price">Price:</label>
+            <input type="number" id="Price" name="Price" ngModel required>
+        </div>
+        <div class="form-group">
+            <label for="Category">Category:</label>
+            <input type="text" id="Category" name="Category" ngModel required>
+        </div>
+        <div class="form-group">
+            <label for="Condition">Condition:</label>
+            <input type="text" id="Condition" name="Condition" ngModel required>
+        </div>
+        <div class="form-group">
+            <label for="Images">Images:</label>
+            <input type="text" id="Images" name="Images" ngModel required>
+        </div>
+        <div class="form-group">
+            <label for="Location">Location:</label>
+            <input type="text" id="Location" name="Location" ngModel required>
+        </div>
+        <button type="submit">Add Item</button>
+    </form>
+</div>

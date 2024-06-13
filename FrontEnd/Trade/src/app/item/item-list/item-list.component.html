@@ -1,0 +1,32 @@
+
+<div class="one">
+<div class="container mt-5">
+    <div class="button-container mb-4 text-right">
+        <button (click)="navigateToAddItem()" class="btn btn-success">Add Item</button>
+        
+    </div>
+    
+    <div class="item-list-container">
+        <h2 class="item-list-title text-center">Quick Trade Goodies</h2>
+        <table class="item-list-table table table-striped table-bordered">
+            <thead class="table-primary">
+                <tr>
+                    <th>Product Name</th>
+                    
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let item of items">
+                    <td>{{ item.itemName }}</td>
+                    <td>
+                        <button class="btn btn-info btn-sm mx-1" (click)="viewItem(item.itemId)">View</button>
+                        <button class="btn btn-warning btn-sm mx-1" (click)="editItem(item.itemId)">Edit</button>
+                        <button class="btn btn-danger btn-sm mx-1" (click)="deleteItem(item.itemId)">Delete</button>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+</div>
+

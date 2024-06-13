@@ -1,0 +1,45 @@
+
+
+   <div class="one">
+    <nav class="navbar">
+      <a routerLink="/frontpage" class="nav-link">Home</a>
+    </nav> 
+    <div class="wrapper">
+      <div class="registration_form">
+        <div class="title">
+          Sign Up As User<br>
+          Start your Journey in Quick Trade
+        </div>
+        <form (ngSubmit)="submitSignupForm()" #signupForm="ngForm" novalidate>
+          <div class="form_wrap">
+            <div class="input_wrap">
+              <label for="username">Username</label>
+              <input type="text" id="username" name="Username" class="form-control" [(ngModel)]="signupData.Username" required>
+            </div>
+            <div class="input_wrap">
+              <label for="email">Email Address</label>
+              <input type="email" id="email" name="Email" class="form-control" [(ngModel)]="signupData.Email" pattern="[a-zA-Z0-9._%+-]+@gmail\.com" title="Please enter a valid Gmail address." required>
+              <small *ngIf="signupForm.controls['Email'].invalid && (signupForm.controls['Email'].dirty || signupForm.controls['Email'].touched)" class="text-danger">Please enter a valid Gmail address (example@gmail.com).</small>
+            </div>
+            <div class="input_wrap">
+              <label for="password">Password</label>
+              <input type="password" id="password" name="Password" class="form-control" [(ngModel)]="signupData.Password" required>
+            </div>
+            <div class="input_wrap">
+              <label for="phoneNumber">Phone Number</label>
+              <input type="text" id="phoneNumber" name="PhoneNumber" class="form-control" [(ngModel)]="signupData.PhoneNumber" pattern="[0-9]{10}" title="Phone number must be exactly 10 digits." maxlength="10">
+              <small *ngIf="signupForm.controls['PhoneNumber'].invalid && (signupForm.controls['PhoneNumber'].dirty || signupForm.controls['PhoneNumber'].touched)" class="text-danger">Phone number must be exactly 10 digits.</small>
+            </div>
+            <div class="input_wrap">
+              <label for="address">Address</label>
+              <input type="text" id="address" name="Address" class="form-control" [(ngModel)]="signupData.Address">
+            </div>
+            <div class="input_wrap">
+              <button type="submit" class="submit_btn" [disabled]="!signupForm.valid">Sign Up</button>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+  

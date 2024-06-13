@@ -1,0 +1,16 @@
+<div class="container">
+  <div class="user-profile">
+    <h2 class="text-center mb-4">User Profile</h2>
+    <div class="profile-info">
+      <p><strong>User Name:</strong> {{ loggedInUser?.username }}</p>
+      <p><strong>Email:</strong> {{ loggedInUser?.email }}</p>
+      <p><strong>Password:</strong> {{ loggedInUser?.password }}</p>
+      <p><strong>Phone Number:</strong> {{ loggedInUser?.phoneNumber }}</p>
+      <p><strong>Address:</strong> {{ loggedInUser?.address }}</p>
+    </div>
+    <div class="profile-actions">
+      <button class="btn btn-primary" (click)="editUser()">Edit</button>
+      <button class="btn btn-secondary" (click)="goBack()">Back</button>
+    </div>
+  </div>
+</div>

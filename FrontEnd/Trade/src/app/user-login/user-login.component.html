@@ -1,0 +1,29 @@
+<div class="one">
+  <nav class="navbar">
+    <a routerLink="/frontpage" class="nav-link">Home</a>
+    <a routerLink="/signup" class="nav-link">User Signup</a>
+    
+  </nav> 
+  <div class="wrapper">
+    <div class="login_form">
+      <div class="title">
+        User Login
+      </div>
+      <form (ngSubmit)="submitLoginForm()">
+        <div class="form_wrap">
+          <div class="input_wrap">
+            <label for="email">Email Address</label>
+            <input type="email" [(ngModel)]="loginData.Email" name="Email" required>
+          </div>
+          <div class="input_wrap">
+            <label for="password">Password</label>
+            <input type="password" [(ngModel)]="loginData.Password" name="Password" required>
+          </div>
+          <div class="input_wrap">
+            <button type="submit" class="submit_btn">Log in as User</button>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>

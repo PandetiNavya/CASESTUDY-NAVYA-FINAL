@@ -1,0 +1,86 @@
+.container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    background-color: #ebd0ce;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 150px;
+  }
+  .one{
+    background-color: #545871;
+  }
+  
+  .navbar {
+    background-color: #545871;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  .nav-link {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 10px;
+  }
+  
+  .wrapper {
+    background-color: #545871;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .login_form {
+    text-align: center;
+  }
+  
+  .title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color:#ebd0ce
+  }
+  
+  .form_wrap {
+    max-width: 400px;
+    margin: auto;
+    color:#ebd0ce
+  }
+  
+  .input_wrap {
+    margin-bottom: 15px;
+    text-align: left;
+  }
+  
+  .input_wrap label {
+    font-weight: bold;
+  }
+  
+  .submit_btn {
+    background-color: #ebd0ce;
+    color: #545871;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .submit_btn:hover {
+    background-color: #218838;
+  }
+  
+  .form-control {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .form-control:focus {
+    outline: none;
+    border-color: #80bdff;
+    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+  }
+  
